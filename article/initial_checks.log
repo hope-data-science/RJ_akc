@@ -1,0 +1,15 @@
+Initial check results: 
+SUCCESS: Submission contains both RJwrapper.tex and RJwrapper.pdf
+SUCCESS: Submission has consistently named tex, bib, and R files
+SUCCESS: No problematic file found
+SUCCESS: Possible motivation letter found
+ERROR: The title is not in title case! Suggest title to be changed to:
+Akc: A Tidy Framework for Automatic Knowledge Classification in R
+SUCCESS: All sections are properly formatted in sentence case
+SUCCESS: Abstract comes before the introduction section
+NOTE: A potential list of spelling to check: textualized, bibliometric, toolkits, reproducibility, modularity, modelling, tokenized, preprocess, lemmatization, lemmatized, undirected, tokenization, rj, stopword, tibble, tbl, df, tibbles, vis, akc, betweenness, tokenizing, acknowledgement
+SUCCESS: CRAN activities have been detected for package akc
+SUCCESS: All CRAN & Bioconductor packages mentioned are available
+NOTE: 1 package(s) used in the text without CRANpkg or BIOpkg commands: rjtools
+
+ SUCCESSES: 8 | ERRORS: 1 | NOTES: 2 
